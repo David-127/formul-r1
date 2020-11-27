@@ -15,4 +15,13 @@ body {
 
 fieldset {
   font-family: fantasy;
+  height: 30vh;
+}
+
+label {
+  height: 20vh;
+}
+
+input[type="text"] {
+  height: 10vh;
 }
